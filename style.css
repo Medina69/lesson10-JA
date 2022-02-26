@@ -1,0 +1,12 @@
+h1 {
+    font-size: 60px;
+}
+
+body {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    /* background-color: rgb(0, 0, 0); */
+    padding: 0% 35%;
+    background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+}
